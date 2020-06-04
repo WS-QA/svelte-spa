@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\EUA\C_sharp_big\svelte-spa-5\MyApp" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Configure.Auth.cs" t="Include" />
+      <e p="gulpfile.js" t="Include" />
+      <e p="MyApp.csproj" t="IncludeRecursive" />
+      <e p="npm-shrinkwrap.json" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="MyApp.AssemblyInfo.cs" t="Include" />
+            <e p="MyApp.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="rollup.config.js" t="Include" />
+      <e p="src" t="Include">
+        <e p="App.svelte" t="Include" />
+        <e p="components" t="Include">
+          <e p="About.svelte" t="Include" />
+          <e p="Error404.svelte" t="Include" />
+          <e p="Home.svelte" t="Include" />
+          <e p="SignIn.svelte" t="Include" />
+          <e p="SignUp.svelte" t="Include" />
+        </e>
+        <e p="main.js" t="Include" />
+        <e p="shared" t="Include">
+          <e p="CheckBox.svelte" t="Include" />
+          <e p="dtos.js" t="Include" />
+          <e p="dtos.ts" t="Include" />
+          <e p="ErrorSummary.svelte" t="Include" />
+          <e p="index.js" t="Include" />
+          <e p="Input.svelte" t="Include" />
+          <e p="routes.js" t="Include" />
+        </e>
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="tsconfig.json" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="assets" t="Include">
+          <e p="css" t="Include">
+            <e p="bootstrap.css" t="Include" />
+            <e p="global.css" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="bootstrap.min.js" t="Include" />
+            <e p="jquery.slim.min.js" t="Include" />
+          </e>
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="index.html" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.04" t="ExcludeRecursive" />
+  </component>
+</project>

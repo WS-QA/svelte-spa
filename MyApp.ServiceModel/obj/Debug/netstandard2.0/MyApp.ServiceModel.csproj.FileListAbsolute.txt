@@ -1,0 +1,9 @@
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\bin\Debug\netstandard2.0\MyApp.ServiceModel.deps.json
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\bin\Debug\netstandard2.0\MyApp.ServiceModel.dll
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\bin\Debug\netstandard2.0\MyApp.ServiceModel.pdb
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\obj\Debug\netstandard2.0\MyApp.ServiceModel.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\obj\Debug\netstandard2.0\MyApp.ServiceModel.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\obj\Debug\netstandard2.0\MyApp.ServiceModel.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\obj\Debug\netstandard2.0\MyApp.ServiceModel.AssemblyInfo.cs
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\obj\Debug\netstandard2.0\MyApp.ServiceModel.dll
+C:\EUA\C_sharp_big\svelte-spa-5\MyApp.ServiceModel\obj\Debug\netstandard2.0\MyApp.ServiceModel.pdb
